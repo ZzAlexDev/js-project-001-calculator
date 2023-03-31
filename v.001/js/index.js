@@ -18,4 +18,5 @@ btnResultNode.addEventListener('click', function () {
         operation
     });
 
+    outputNode.innerHTML = result;
 });
